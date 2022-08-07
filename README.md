@@ -1,2 +1,2 @@
-# HMS
-This website emphasizes on providing the complete details of hostel like how many students are staying in hostel, Mess menu and events organized in hostel. It can be used by user to view the details and share the various events experiences
+# Hostel
+This is hostel management website.In this Warden and Hostel Manager can distribute notice to hosteller and Hostel Manager can view The status of Hostel Rooms.
